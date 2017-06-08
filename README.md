@@ -1,2 +1,2 @@
 # hello-world
-This is first program
+Hello world program for trial
